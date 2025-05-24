@@ -1,0 +1,42 @@
+c-journey-from-zero-to-pro/
+│
+├── 01_beginner/
+│   ├── calculator/
+│   ├── number_guessing_game/
+│   ├── temperature_converter/
+│   └── mini_quiz_app/
+│
+├── 02_intermediate/
+│   ├── contact_book/
+│   ├── tic_tac_toe/
+│   ├── mini_shell/
+│   ├── bank_management_system/
+│   └── data_structures/
+│       ├── linked_list/
+│       ├── stack/
+│       └── binary_tree/
+│
+├── 03_advanced/
+│   ├── http_server/
+│   ├── chat_app/
+│   ├── file_sync_tool/
+│   ├── multi_thread_downloader/
+│   └── custom_malloc/
+│
+├── 04_professional/
+│   ├── mini_python_interpreter/
+│   ├── tiny_kernel/
+│   ├── embedded_controller/
+│   ├── profiler_tools/
+│   └── open_source_contributions/
+│       ├── README.md
+│       └── [your patches or links]
+│
+├── docs/
+│   ├── roadmap.md
+│   ├── resources.md
+│   └── design_notes/
+│
+├── LICENSE
+├── README.md
+└── Makefile (optional global or per project)
